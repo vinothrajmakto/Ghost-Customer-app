@@ -1,0 +1,16 @@
+io.flutter.plugins.firebase.functions.cloud_functions-jetified-annotation-experimental-1.1.0-0 /home/carton/.gradle/caches/transforms-3/0faa3ecb2ffa7fa8f3df3815745facff/transformed/jetified-annotation-experimental-1.1.0/res
+io.flutter.plugins.firebase.functions.cloud_functions-jetified-window-1.0.0-beta04-1 /home/carton/.gradle/caches/transforms-3/18e8bba8959ee3aa6822c740ed47be10/transformed/jetified-window-1.0.0-beta04/res
+io.flutter.plugins.firebase.functions.cloud_functions-jetified-firebase-common-20.4.3-2 /home/carton/.gradle/caches/transforms-3/2ba782b31587d68a681838187682b213/transformed/jetified-firebase-common-20.4.3/res
+io.flutter.plugins.firebase.functions.cloud_functions-jetified-play-services-basement-18.3.0-3 /home/carton/.gradle/caches/transforms-3/2da65ccb27efe7f6f0331f9ee7ced51d/transformed/jetified-play-services-basement-18.3.0/res
+io.flutter.plugins.firebase.functions.cloud_functions-jetified-play-services-base-18.1.0-4 /home/carton/.gradle/caches/transforms-3/8f4ca89b0f6d67747a65845abb56de06/transformed/jetified-play-services-base-18.1.0/res
+io.flutter.plugins.firebase.functions.cloud_functions-core-1.6.0-5 /home/carton/.gradle/caches/transforms-3/98796e98442010cd2e2c22ad8115b3cd/transformed/core-1.6.0/res
+io.flutter.plugins.firebase.functions.cloud_functions-jetified-window-java-1.0.0-beta04-6 /home/carton/.gradle/caches/transforms-3/a770543ed88559166d0288a211e8016c/transformed/jetified-window-java-1.0.0-beta04/res
+io.flutter.plugins.firebase.functions.cloud_functions-main-7 /home/carton/.pub-cache/hosted/pub.dev/cloud_functions-4.7.4/android/src/main/res
+io.flutter.plugins.firebase.functions.cloud_functions-release-8 /home/carton/.pub-cache/hosted/pub.dev/cloud_functions-4.7.4/android/src/release/res
+io.flutter.plugins.firebase.functions.cloud_functions-pngs-9 /home/carton/Desktop/Ghost App/Customer/Ghost-Customer/flutterprojects/custupdation/customer/build/cloud_functions/generated/res/pngs/release
+io.flutter.plugins.firebase.functions.cloud_functions-resValues-10 /home/carton/Desktop/Ghost App/Customer/Ghost-Customer/flutterprojects/custupdation/customer/build/cloud_functions/generated/res/resValues/release
+io.flutter.plugins.firebase.functions.cloud_functions-rs-11 /home/carton/Desktop/Ghost App/Customer/Ghost-Customer/flutterprojects/custupdation/customer/build/cloud_functions/generated/res/rs/release
+io.flutter.plugins.firebase.functions.cloud_functions-mergeReleaseResources-12 /home/carton/Desktop/Ghost App/Customer/Ghost-Customer/flutterprojects/custupdation/customer/build/cloud_functions/intermediates/incremental/release/mergeReleaseResources/merged.dir
+io.flutter.plugins.firebase.functions.cloud_functions-mergeReleaseResources-13 /home/carton/Desktop/Ghost App/Customer/Ghost-Customer/flutterprojects/custupdation/customer/build/cloud_functions/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+io.flutter.plugins.firebase.functions.cloud_functions-merged_res-14 /home/carton/Desktop/Ghost App/Customer/Ghost-Customer/flutterprojects/custupdation/customer/build/cloud_functions/intermediates/merged_res/release
+io.flutter.plugins.firebase.functions.cloud_functions-packaged_res-15 /home/carton/Desktop/Ghost App/Customer/Ghost-Customer/flutterprojects/custupdation/customer/build/firebase_core/intermediates/packaged_res/release

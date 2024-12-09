@@ -1,0 +1,13 @@
+io.github.zeshuaro.google_api_headers-jetified-annotation-experimental-1.1.0-0 /home/carton/.gradle/caches/transforms-3/0faa3ecb2ffa7fa8f3df3815745facff/transformed/jetified-annotation-experimental-1.1.0/res
+io.github.zeshuaro.google_api_headers-jetified-window-1.0.0-beta04-1 /home/carton/.gradle/caches/transforms-3/18e8bba8959ee3aa6822c740ed47be10/transformed/jetified-window-1.0.0-beta04/res
+io.github.zeshuaro.google_api_headers-core-1.6.0-2 /home/carton/.gradle/caches/transforms-3/98796e98442010cd2e2c22ad8115b3cd/transformed/core-1.6.0/res
+io.github.zeshuaro.google_api_headers-jetified-window-java-1.0.0-beta04-3 /home/carton/.gradle/caches/transforms-3/a770543ed88559166d0288a211e8016c/transformed/jetified-window-java-1.0.0-beta04/res
+io.github.zeshuaro.google_api_headers-main-4 /home/carton/.pub-cache/hosted/pub.dev/google_api_headers-2.0.3/android/src/main/res
+io.github.zeshuaro.google_api_headers-release-5 /home/carton/.pub-cache/hosted/pub.dev/google_api_headers-2.0.3/android/src/release/res
+io.github.zeshuaro.google_api_headers-pngs-6 /home/carton/Desktop/Ghost App/Customer/Ghost-Customer/flutterprojects/custupdation/customer/build/google_api_headers/generated/res/pngs/release
+io.github.zeshuaro.google_api_headers-resValues-7 /home/carton/Desktop/Ghost App/Customer/Ghost-Customer/flutterprojects/custupdation/customer/build/google_api_headers/generated/res/resValues/release
+io.github.zeshuaro.google_api_headers-rs-8 /home/carton/Desktop/Ghost App/Customer/Ghost-Customer/flutterprojects/custupdation/customer/build/google_api_headers/generated/res/rs/release
+io.github.zeshuaro.google_api_headers-mergeReleaseResources-9 /home/carton/Desktop/Ghost App/Customer/Ghost-Customer/flutterprojects/custupdation/customer/build/google_api_headers/intermediates/incremental/release/mergeReleaseResources/merged.dir
+io.github.zeshuaro.google_api_headers-mergeReleaseResources-10 /home/carton/Desktop/Ghost App/Customer/Ghost-Customer/flutterprojects/custupdation/customer/build/google_api_headers/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+io.github.zeshuaro.google_api_headers-merged_res-11 /home/carton/Desktop/Ghost App/Customer/Ghost-Customer/flutterprojects/custupdation/customer/build/google_api_headers/intermediates/merged_res/release
+io.github.zeshuaro.google_api_headers-packaged_res-12 /home/carton/Desktop/Ghost App/Customer/Ghost-Customer/flutterprojects/custupdation/customer/build/package_info_plus/intermediates/packaged_res/release

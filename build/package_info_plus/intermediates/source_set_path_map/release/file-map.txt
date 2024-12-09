@@ -1,0 +1,12 @@
+dev.fluttercommunity.plus.packageinfo.package_info_plus-jetified-annotation-experimental-1.1.0-0 /home/carton/.gradle/caches/transforms-3/0faa3ecb2ffa7fa8f3df3815745facff/transformed/jetified-annotation-experimental-1.1.0/res
+dev.fluttercommunity.plus.packageinfo.package_info_plus-jetified-window-1.0.0-beta04-1 /home/carton/.gradle/caches/transforms-3/18e8bba8959ee3aa6822c740ed47be10/transformed/jetified-window-1.0.0-beta04/res
+dev.fluttercommunity.plus.packageinfo.package_info_plus-core-1.6.0-2 /home/carton/.gradle/caches/transforms-3/98796e98442010cd2e2c22ad8115b3cd/transformed/core-1.6.0/res
+dev.fluttercommunity.plus.packageinfo.package_info_plus-jetified-window-java-1.0.0-beta04-3 /home/carton/.gradle/caches/transforms-3/a770543ed88559166d0288a211e8016c/transformed/jetified-window-java-1.0.0-beta04/res
+dev.fluttercommunity.plus.packageinfo.package_info_plus-main-4 /home/carton/.pub-cache/hosted/pub.dev/package_info_plus-8.0.0/android/src/main/res
+dev.fluttercommunity.plus.packageinfo.package_info_plus-release-5 /home/carton/.pub-cache/hosted/pub.dev/package_info_plus-8.0.0/android/src/release/res
+dev.fluttercommunity.plus.packageinfo.package_info_plus-pngs-6 /home/carton/Desktop/Ghost App/Customer/Ghost-Customer/flutterprojects/custupdation/customer/build/package_info_plus/generated/res/pngs/release
+dev.fluttercommunity.plus.packageinfo.package_info_plus-resValues-7 /home/carton/Desktop/Ghost App/Customer/Ghost-Customer/flutterprojects/custupdation/customer/build/package_info_plus/generated/res/resValues/release
+dev.fluttercommunity.plus.packageinfo.package_info_plus-rs-8 /home/carton/Desktop/Ghost App/Customer/Ghost-Customer/flutterprojects/custupdation/customer/build/package_info_plus/generated/res/rs/release
+dev.fluttercommunity.plus.packageinfo.package_info_plus-mergeReleaseResources-9 /home/carton/Desktop/Ghost App/Customer/Ghost-Customer/flutterprojects/custupdation/customer/build/package_info_plus/intermediates/incremental/release/mergeReleaseResources/merged.dir
+dev.fluttercommunity.plus.packageinfo.package_info_plus-mergeReleaseResources-10 /home/carton/Desktop/Ghost App/Customer/Ghost-Customer/flutterprojects/custupdation/customer/build/package_info_plus/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+dev.fluttercommunity.plus.packageinfo.package_info_plus-merged_res-11 /home/carton/Desktop/Ghost App/Customer/Ghost-Customer/flutterprojects/custupdation/customer/build/package_info_plus/intermediates/merged_res/release

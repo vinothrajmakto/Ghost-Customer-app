@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "69431046757",
+    "project_id": "ghostdelivery-99b14",
+    "storage_bucket": "ghostdelivery-99b14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69431046757:android:4e35fb6947260506750c8c",
+        "android_client_info": {
+          "package_name": "com.gds.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "69431046757-880qigjg3ubf2aprn665up2rie9digmb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gds.customer",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "69431046757-uuqpq94nkp13isdc7ah7bhlafi8cr5km.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gds.customer",
+            "certificate_hash": "f7f0f70acc31f1c113b141066a961db2d66d0503"
+          }
+        },
+        {
+          "client_id": "69431046757-nej45b80cje96v5suia14h5ldpibus9g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDB8l7TegVn5KyXby5HBUCK-cCT4xaDqnQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "69431046757-nej45b80cje96v5suia14h5ldpibus9g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "69431046757-72bnm332v1d409vrgbmudgg8sn1s8j0q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ghost.delivery"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69431046757:android:f080b57dd98c56b5750c8c",
+        "android_client_info": {
+          "package_name": "com.gds.delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "69431046757-lq1dd1q401ineu75pf0f76s277sll0vn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gds.delivery",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "69431046757-nej45b80cje96v5suia14h5ldpibus9g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDB8l7TegVn5KyXby5HBUCK-cCT4xaDqnQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "69431046757-nej45b80cje96v5suia14h5ldpibus9g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "69431046757-72bnm332v1d409vrgbmudgg8sn1s8j0q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ghost.delivery"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

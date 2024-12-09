@@ -1,0 +1,1 @@
+ /home/carton/Desktop/Ghost\ App/Customer/Ghost-Customer/flutterprojects/custupdation/customer/.dart_tool/flutter_build/a230af68e7109d3a9d3780990528e022/native_assets.yaml: 

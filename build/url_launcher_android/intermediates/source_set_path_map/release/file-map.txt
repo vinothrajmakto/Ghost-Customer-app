@@ -1,0 +1,14 @@
+io.flutter.plugins.urllauncher.url_launcher_android-jetified-window-1.0.0-beta04-0 /home/carton/.gradle/caches/transforms-3/18e8bba8959ee3aa6822c740ed47be10/transformed/jetified-window-1.0.0-beta04/res
+io.flutter.plugins.urllauncher.url_launcher_android-lifecycle-runtime-2.3.1-1 /home/carton/.gradle/caches/transforms-3/6f8a4fca5e17b0b830ecf3eede24a9d0/transformed/lifecycle-runtime-2.3.1/res
+io.flutter.plugins.urllauncher.url_launcher_android-browser-1.5.0-2 /home/carton/.gradle/caches/transforms-3/9555a66033865a1161763fdab728b441/transformed/browser-1.5.0/res
+io.flutter.plugins.urllauncher.url_launcher_android-jetified-window-java-1.0.0-beta04-3 /home/carton/.gradle/caches/transforms-3/a770543ed88559166d0288a211e8016c/transformed/jetified-window-java-1.0.0-beta04/res
+io.flutter.plugins.urllauncher.url_launcher_android-jetified-annotation-experimental-1.3.0-4 /home/carton/.gradle/caches/transforms-3/c24a19b1dd9d08d717446ac260c89747/transformed/jetified-annotation-experimental-1.3.0/res
+io.flutter.plugins.urllauncher.url_launcher_android-core-1.10.1-5 /home/carton/.gradle/caches/transforms-3/f913c1187fe6a334cbb16b92ca817339/transformed/core-1.10.1/res
+io.flutter.plugins.urllauncher.url_launcher_android-main-6 /home/carton/.pub-cache/hosted/pub.dev/url_launcher_android-6.3.4/android/src/main/res
+io.flutter.plugins.urllauncher.url_launcher_android-release-7 /home/carton/.pub-cache/hosted/pub.dev/url_launcher_android-6.3.4/android/src/release/res
+io.flutter.plugins.urllauncher.url_launcher_android-pngs-8 /home/carton/Desktop/Ghost App/Customer/Ghost-Customer/flutterprojects/custupdation/customer/build/url_launcher_android/generated/res/pngs/release
+io.flutter.plugins.urllauncher.url_launcher_android-resValues-9 /home/carton/Desktop/Ghost App/Customer/Ghost-Customer/flutterprojects/custupdation/customer/build/url_launcher_android/generated/res/resValues/release
+io.flutter.plugins.urllauncher.url_launcher_android-rs-10 /home/carton/Desktop/Ghost App/Customer/Ghost-Customer/flutterprojects/custupdation/customer/build/url_launcher_android/generated/res/rs/release
+io.flutter.plugins.urllauncher.url_launcher_android-mergeReleaseResources-11 /home/carton/Desktop/Ghost App/Customer/Ghost-Customer/flutterprojects/custupdation/customer/build/url_launcher_android/intermediates/incremental/release/mergeReleaseResources/merged.dir
+io.flutter.plugins.urllauncher.url_launcher_android-mergeReleaseResources-12 /home/carton/Desktop/Ghost App/Customer/Ghost-Customer/flutterprojects/custupdation/customer/build/url_launcher_android/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+io.flutter.plugins.urllauncher.url_launcher_android-merged_res-13 /home/carton/Desktop/Ghost App/Customer/Ghost-Customer/flutterprojects/custupdation/customer/build/url_launcher_android/intermediates/merged_res/release

@@ -1,0 +1,15 @@
+io.flutter.plugins.videoplayer.video_player_android-jetified-annotation-experimental-1.1.0-0 /home/carton/.gradle/caches/transforms-3/0faa3ecb2ffa7fa8f3df3815745facff/transformed/jetified-annotation-experimental-1.1.0/res
+io.flutter.plugins.videoplayer.video_player_android-jetified-window-1.0.0-beta04-1 /home/carton/.gradle/caches/transforms-3/18e8bba8959ee3aa6822c740ed47be10/transformed/jetified-window-1.0.0-beta04/res
+io.flutter.plugins.videoplayer.video_player_android-lifecycle-runtime-2.3.1-2 /home/carton/.gradle/caches/transforms-3/6f8a4fca5e17b0b830ecf3eede24a9d0/transformed/lifecycle-runtime-2.3.1/res
+io.flutter.plugins.videoplayer.video_player_android-core-1.7.0-3 /home/carton/.gradle/caches/transforms-3/8d0b4493f30c4a3194596c2401acd1c7/transformed/core-1.7.0/res
+io.flutter.plugins.videoplayer.video_player_android-jetified-window-java-1.0.0-beta04-4 /home/carton/.gradle/caches/transforms-3/a770543ed88559166d0288a211e8016c/transformed/jetified-window-java-1.0.0-beta04/res
+io.flutter.plugins.videoplayer.video_player_android-jetified-exoplayer-core-2.18.7-5 /home/carton/.gradle/caches/transforms-3/ad87588021272fbea5a52b7071de5010/transformed/jetified-exoplayer-core-2.18.7/res
+io.flutter.plugins.videoplayer.video_player_android-main-6 /home/carton/.pub-cache/hosted/pub.dev/video_player_android-2.4.16/android/src/main/res
+io.flutter.plugins.videoplayer.video_player_android-release-7 /home/carton/.pub-cache/hosted/pub.dev/video_player_android-2.4.16/android/src/release/res
+io.flutter.plugins.videoplayer.video_player_android-packaged_res-8 /home/carton/Desktop/Ghost App/Customer/Ghost-Customer/flutterprojects/custupdation/customer/build/flutter_plugin_android_lifecycle/intermediates/packaged_res/release
+io.flutter.plugins.videoplayer.video_player_android-pngs-9 /home/carton/Desktop/Ghost App/Customer/Ghost-Customer/flutterprojects/custupdation/customer/build/video_player_android/generated/res/pngs/release
+io.flutter.plugins.videoplayer.video_player_android-resValues-10 /home/carton/Desktop/Ghost App/Customer/Ghost-Customer/flutterprojects/custupdation/customer/build/video_player_android/generated/res/resValues/release
+io.flutter.plugins.videoplayer.video_player_android-rs-11 /home/carton/Desktop/Ghost App/Customer/Ghost-Customer/flutterprojects/custupdation/customer/build/video_player_android/generated/res/rs/release
+io.flutter.plugins.videoplayer.video_player_android-mergeReleaseResources-12 /home/carton/Desktop/Ghost App/Customer/Ghost-Customer/flutterprojects/custupdation/customer/build/video_player_android/intermediates/incremental/release/mergeReleaseResources/merged.dir
+io.flutter.plugins.videoplayer.video_player_android-mergeReleaseResources-13 /home/carton/Desktop/Ghost App/Customer/Ghost-Customer/flutterprojects/custupdation/customer/build/video_player_android/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+io.flutter.plugins.videoplayer.video_player_android-merged_res-14 /home/carton/Desktop/Ghost App/Customer/Ghost-Customer/flutterprojects/custupdation/customer/build/video_player_android/intermediates/merged_res/release

@@ -1,0 +1,124 @@
+com.gds.customer.app-fragment-1.6.2-0 /home/carton/.gradle/caches/transforms-3/0040ef0994ea8db1f64784346c06018f/transformed/fragment-1.6.2/res
+com.gds.customer.app-jetified-foundation-release-1 /home/carton/.gradle/caches/transforms-3/01518bcab63428c839f960fe431bcd63/transformed/jetified-foundation-release/res
+com.gds.customer.app-core-1.13.0-2 /home/carton/.gradle/caches/transforms-3/0230016d94593393ac2e9deddc02f389/transformed/core-1.13.0/res
+com.gds.customer.app-jetified-profileinstaller-1.3.0-3 /home/carton/.gradle/caches/transforms-3/02dca9228b6cfc2d193c4f4819d0a11f/transformed/jetified-profileinstaller-1.3.0/res
+com.gds.customer.app-jetified-play-services-base-18.3.0-4 /home/carton/.gradle/caches/transforms-3/0366a2f5f0258d73ee0a8e5ff2dfdffb/transformed/jetified-play-services-base-18.3.0/res
+com.gds.customer.app-jetified-emoji2-views-helper-1.4.0-5 /home/carton/.gradle/caches/transforms-3/0ad1838b21846c61afbbf52ff1f27db6/transformed/jetified-emoji2-views-helper-1.4.0/res
+com.gds.customer.app-navigation-runtime-2.7.6-6 /home/carton/.gradle/caches/transforms-3/0d040fff285d7e209580346c52588cd6/transformed/navigation-runtime-2.7.6/res
+com.gds.customer.app-jetified-runtime-saveable-release-7 /home/carton/.gradle/caches/transforms-3/12df9ee2271461c3ea952998fb107b6b/transformed/jetified-runtime-saveable-release/res
+com.gds.customer.app-browser-1.7.0-8 /home/carton/.gradle/caches/transforms-3/1876283bfe756b9bcf6ec1f754b46c42/transformed/browser-1.7.0/res
+com.gds.customer.app-jetified-window-1.0.0-beta04-9 /home/carton/.gradle/caches/transforms-3/18e8bba8959ee3aa6822c740ed47be10/transformed/jetified-window-1.0.0-beta04/res
+com.gds.customer.app-jetified-ui-text-release-10 /home/carton/.gradle/caches/transforms-3/213207267bc770e3a4b5a97c575ec2f0/transformed/jetified-ui-text-release/res
+com.gds.customer.app-jetified-ui-util-release-11 /home/carton/.gradle/caches/transforms-3/277d83068c0ff616f6ba53724486a544/transformed/jetified-ui-util-release/res
+com.gds.customer.app-jetified-firebase-common-20.4.3-12 /home/carton/.gradle/caches/transforms-3/2ba782b31587d68a681838187682b213/transformed/jetified-firebase-common-20.4.3/res
+com.gds.customer.app-jetified-play-services-basement-18.3.0-13 /home/carton/.gradle/caches/transforms-3/2da65ccb27efe7f6f0331f9ee7ced51d/transformed/jetified-play-services-basement-18.3.0/res
+com.gds.customer.app-coordinatorlayout-1.1.0-14 /home/carton/.gradle/caches/transforms-3/30272c91d8587636fe285422bd4fd0c1/transformed/coordinatorlayout-1.1.0/res
+com.gds.customer.app-jetified-material-ripple-release-15 /home/carton/.gradle/caches/transforms-3/325ec946702baa1520b7e491a11dd489/transformed/jetified-material-ripple-release/res
+com.gds.customer.app-jetified-material3-1.0.1-16 /home/carton/.gradle/caches/transforms-3/366c2085c827459b49db84c293f395cf/transformed/jetified-material3-1.0.1/res
+com.gds.customer.app-jetified-stripe-core-20.37.4-17 /home/carton/.gradle/caches/transforms-3/38ed1139814bcdf0d7556368312e73ab/transformed/jetified-stripe-core-20.37.4/res
+com.gds.customer.app-jetified-core-ktx-1.13.0-18 /home/carton/.gradle/caches/transforms-3/39461878eb1130eeb24cdab1e64e3a78/transformed/jetified-core-ktx-1.13.0/res
+com.gds.customer.app-jetified-lifecycle-livedata-core-ktx-2.7.0-19 /home/carton/.gradle/caches/transforms-3/39aecdf86c1d87277bc64e816db774de/transformed/jetified-lifecycle-livedata-core-ktx-2.7.0/res
+com.gds.customer.app-lifecycle-livedata-core-2.7.0-20 /home/carton/.gradle/caches/transforms-3/3b5d715ac9c89c75b23114ae71813f92/transformed/lifecycle-livedata-core-2.7.0/res
+com.gds.customer.app-jetified-emoji2-1.4.0-21 /home/carton/.gradle/caches/transforms-3/4022d689c11b4931ce1399fbd3e83864/transformed/jetified-emoji2-1.4.0/res
+com.gds.customer.app-jetified-viewpager2-1.1.0-beta02-22 /home/carton/.gradle/caches/transforms-3/488c5c70c87c90423beb88fdd376de4a/transformed/jetified-viewpager2-1.1.0-beta02/res
+com.gds.customer.app-lifecycle-livedata-2.7.0-23 /home/carton/.gradle/caches/transforms-3/4eb8b6a6b4d3e6149e448e6046cb929c/transformed/lifecycle-livedata-2.7.0/res
+com.gds.customer.app-jetified-android-maps-utils-3.6.0-24 /home/carton/.gradle/caches/transforms-3/50c259296db8e0cdad0102c836721fa2/transformed/jetified-android-maps-utils-3.6.0/res
+com.gds.customer.app-jetified-material-release-25 /home/carton/.gradle/caches/transforms-3/592c8529713ffec06cad58ec22ad17b7/transformed/jetified-material-release/res
+com.gds.customer.app-jetified-ui-release-26 /home/carton/.gradle/caches/transforms-3/5c550c5b0cb7a1508d812a4e52fc2844/transformed/jetified-ui-release/res
+com.gds.customer.app-jetified-payments-core-20.37.4-27 /home/carton/.gradle/caches/transforms-3/5d89c874b29cb0c547844796f7a69c3c/transformed/jetified-payments-core-20.37.4/res
+com.gds.customer.app-jetified-paymentsheet-20.37.4-28 /home/carton/.gradle/caches/transforms-3/61a5c4a7900be3fecfce7b87cc0bd9eb/transformed/jetified-paymentsheet-20.37.4/res
+com.gds.customer.app-transition-1.2.0-29 /home/carton/.gradle/caches/transforms-3/64b28261855a261b898b82f0d9518091/transformed/transition-1.2.0/res
+com.gds.customer.app-jetified-appcompat-resources-1.6.1-30 /home/carton/.gradle/caches/transforms-3/6678f92c508a3c87d9bfad1fcbe81ca9/transformed/jetified-appcompat-resources-1.6.1/res
+com.gds.customer.app-appcompat-1.6.1-31 /home/carton/.gradle/caches/transforms-3/67882c0565f51e17c353dd027ddcf145/transformed/appcompat-1.6.1/res
+com.gds.customer.app-jetified-lifecycle-livedata-ktx-2.7.0-32 /home/carton/.gradle/caches/transforms-3/6a59f304947325040e9a755431eed383/transformed/jetified-lifecycle-livedata-ktx-2.7.0/res
+com.gds.customer.app-jetified-customview-poolingcontainer-1.0.0-33 /home/carton/.gradle/caches/transforms-3/6aa1d220610553c09a288b7f7843dfc3/transformed/jetified-customview-poolingcontainer-1.0.0/res
+com.gds.customer.app-jetified-navigation-compose-2.7.6-34 /home/carton/.gradle/caches/transforms-3/7022c651f58207b5d64262d6d579eba9/transformed/jetified-navigation-compose-2.7.6/res
+com.gds.customer.app-recyclerview-1.3.2-35 /home/carton/.gradle/caches/transforms-3/7275736920fdaaff473d8865eee56f4c/transformed/recyclerview-1.3.2/res
+com.gds.customer.app-jetified-foundation-layout-release-36 /home/carton/.gradle/caches/transforms-3/72f8167c8049ea384faab88e914932b9/transformed/jetified-foundation-layout-release/res
+com.gds.customer.app-jetified-savedstate-1.2.1-37 /home/carton/.gradle/caches/transforms-3/768491c157474130f653612a9ddee1dc/transformed/jetified-savedstate-1.2.1/res
+com.gds.customer.app-jetified-ui-graphics-release-38 /home/carton/.gradle/caches/transforms-3/77c75146378ec83dd46d47159660b8ec/transformed/jetified-ui-graphics-release/res
+com.gds.customer.app-jetified-startup-runtime-1.1.1-39 /home/carton/.gradle/caches/transforms-3/78045bc66efb9db20cf76146bb82d4ba/transformed/jetified-startup-runtime-1.1.1/res
+com.gds.customer.app-jetified-datastore-1.0.0-40 /home/carton/.gradle/caches/transforms-3/7b15bd04353e8b247c1f1e01db6c200b/transformed/jetified-datastore-1.0.0/res
+com.gds.customer.app-jetified-accompanist-themeadapter-material-0.32.0-41 /home/carton/.gradle/caches/transforms-3/7d8a430d6b03f1dc36fb4bd9b69cc3f5/transformed/jetified-accompanist-themeadapter-material-0.32.0/res
+com.gds.customer.app-jetified-ui-tooling-preview-release-42 /home/carton/.gradle/caches/transforms-3/7f37988035ca54f735fe57bcebfa8bca/transformed/jetified-ui-tooling-preview-release/res
+com.gds.customer.app-jetified-ui-unit-release-43 /home/carton/.gradle/caches/transforms-3/83e6fd7ff2843815116da9d6eb63519d/transformed/jetified-ui-unit-release/res
+com.gds.customer.app-jetified-play-services-auth-20.7.0-44 /home/carton/.gradle/caches/transforms-3/857063c7237af35142be74d489c036ff/transformed/jetified-play-services-auth-20.7.0/res
+com.gds.customer.app-navigation-runtime-ktx-2.7.6-45 /home/carton/.gradle/caches/transforms-3/906e156b81c860cca876674c3d7a77a6/transformed/navigation-runtime-ktx-2.7.6/res
+com.gds.customer.app-lifecycle-runtime-2.7.0-46 /home/carton/.gradle/caches/transforms-3/9234b82421fe048b199173938aa6f1e0/transformed/lifecycle-runtime-2.7.0/res
+com.gds.customer.app-constraintlayout-2.1.4-47 /home/carton/.gradle/caches/transforms-3/92f5c67a8d8180984a3df697f4a57776/transformed/constraintlayout-2.1.4/res
+com.gds.customer.app-jetified-datastore-preferences-1.0.0-48 /home/carton/.gradle/caches/transforms-3/94e81f52f0c09e1cde8222212a2e9994/transformed/jetified-datastore-preferences-1.0.0/res
+com.gds.customer.app-jetified-ui-viewbinding-1.5.4-49 /home/carton/.gradle/caches/transforms-3/9593e804185214d5965c4234786c1e7f/transformed/jetified-ui-viewbinding-1.5.4/res
+com.gds.customer.app-jetified-runtime-release-50 /home/carton/.gradle/caches/transforms-3/972fb9dc993a49bc7c2b60910ec24d59/transformed/jetified-runtime-release/res
+com.gds.customer.app-drawerlayout-1.1.1-51 /home/carton/.gradle/caches/transforms-3/9a6b83a597405ec678518f8c3ee2cc41/transformed/drawerlayout-1.1.1/res
+com.gds.customer.app-media-1.0.0-52 /home/carton/.gradle/caches/transforms-3/9ee42b533271d2570d0a52ca48093d85/transformed/media-1.0.0/res
+com.gds.customer.app-jetified-material-icons-core-release-53 /home/carton/.gradle/caches/transforms-3/a2f3f1ffa3d5f964d3c94878df49db42/transformed/jetified-material-icons-core-release/res
+com.gds.customer.app-jetified-accompanist-themeadapter-appcompat-0.32.0-54 /home/carton/.gradle/caches/transforms-3/a33cf190837a50a55254b9772ac333b8/transformed/jetified-accompanist-themeadapter-appcompat-0.32.0/res
+com.gds.customer.app-jetified-payments-model-20.37.4-55 /home/carton/.gradle/caches/transforms-3/a36f890f57ffc753b64f829e564ca4f1/transformed/jetified-payments-model-20.37.4/res
+com.gds.customer.app-navigation-common-ktx-2.7.6-56 /home/carton/.gradle/caches/transforms-3/a512c7af829db2212c67028dfcffe43f/transformed/navigation-common-ktx-2.7.6/res
+com.gds.customer.app-jetified-activity-compose-1.8.2-57 /home/carton/.gradle/caches/transforms-3/a74cd12fd46dfd213d6fbc7f9d3cde9a/transformed/jetified-activity-compose-1.8.2/res
+com.gds.customer.app-jetified-window-java-1.0.0-beta04-58 /home/carton/.gradle/caches/transforms-3/a770543ed88559166d0288a211e8016c/transformed/jetified-window-java-1.0.0-beta04/res
+com.gds.customer.app-jetified-lifecycle-viewmodel-compose-2.7.0-59 /home/carton/.gradle/caches/transforms-3/a836b5bfd9811e06b1dee1e48228d50c/transformed/jetified-lifecycle-viewmodel-compose-2.7.0/res
+com.gds.customer.app-jetified-exoplayer-core-2.18.7-60 /home/carton/.gradle/caches/transforms-3/ad87588021272fbea5a52b7071de5010/transformed/jetified-exoplayer-core-2.18.7/res
+com.gds.customer.app-jetified-payments-ui-core-20.37.4-61 /home/carton/.gradle/caches/transforms-3/b236f561f0c71881a724cb50e80a656d/transformed/jetified-payments-ui-core-20.37.4/res
+com.gds.customer.app-jetified-animation-release-62 /home/carton/.gradle/caches/transforms-3/b93809c85b4b0f160a9566ed8d62c770/transformed/jetified-animation-release/res
+com.gds.customer.app-jetified-activity-1.8.2-63 /home/carton/.gradle/caches/transforms-3/b99082495a4f7d2f3c3b098b3c8afae5/transformed/jetified-activity-1.8.2/res
+com.gds.customer.app-jetified-runtime-livedata-1.5.4-64 /home/carton/.gradle/caches/transforms-3/ba4c99d728fdadbe86b97e0c79735919/transformed/jetified-runtime-livedata-1.5.4/res
+com.gds.customer.app-jetified-play-services-maps-18.2.0-65 /home/carton/.gradle/caches/transforms-3/bbf61329349b352b1d20e0d00ed12775/transformed/jetified-play-services-maps-18.2.0/res
+com.gds.customer.app-lifecycle-viewmodel-2.7.0-66 /home/carton/.gradle/caches/transforms-3/c120c113c006566252206c4bbadc692c/transformed/lifecycle-viewmodel-2.7.0/res
+com.gds.customer.app-jetified-lifecycle-viewmodel-savedstate-2.7.0-67 /home/carton/.gradle/caches/transforms-3/c60b9582be6c1b1742a13bc6b4645274/transformed/jetified-lifecycle-viewmodel-savedstate-2.7.0/res
+com.gds.customer.app-cardview-1.0.0-68 /home/carton/.gradle/caches/transforms-3/c9e4a58b4774244a402081692c682f6b/transformed/cardview-1.0.0/res
+com.gds.customer.app-jetified-link-20.37.4-69 /home/carton/.gradle/caches/transforms-3/cc5c48bd68c0b64cb63eabdceb7d30c0/transformed/jetified-link-20.37.4/res
+com.gds.customer.app-jetified-accompanist-themeadapter-material3-0.32.0-70 /home/carton/.gradle/caches/transforms-3/d2ab5a73351fa301e046d0b2e0942c68/transformed/jetified-accompanist-themeadapter-material3-0.32.0/res
+com.gds.customer.app-jetified-annotation-experimental-1.4.0-71 /home/carton/.gradle/caches/transforms-3/d58f0457658e4a85d07af216828fbb6a/transformed/jetified-annotation-experimental-1.4.0/res
+com.gds.customer.app-jetified-stripe-3ds2-android-6.1.8-72 /home/carton/.gradle/caches/transforms-3/de224508f04a19895732c1211c9bf846/transformed/jetified-stripe-3ds2-android-6.1.8/res
+com.gds.customer.app-navigation-common-2.7.6-73 /home/carton/.gradle/caches/transforms-3/df26a1ca6f5299148577b7277372114d/transformed/navigation-common-2.7.6/res
+com.gds.customer.app-material-1.11.0-74 /home/carton/.gradle/caches/transforms-3/e31310298a374f7400111c2099baca92/transformed/material-1.11.0/res
+com.gds.customer.app-jetified-savedstate-ktx-1.2.1-75 /home/carton/.gradle/caches/transforms-3/e3d106b53685960b17d16187693e5cb6/transformed/jetified-savedstate-ktx-1.2.1/res
+com.gds.customer.app-jetified-fragment-ktx-1.6.2-76 /home/carton/.gradle/caches/transforms-3/e4a817306bbc76798380f055312cc0f9/transformed/jetified-fragment-ktx-1.6.2/res
+com.gds.customer.app-jetified-lifecycle-process-2.7.0-77 /home/carton/.gradle/caches/transforms-3/e695a93c4130aec0495d12cf8cd78a9b/transformed/jetified-lifecycle-process-2.7.0/res
+com.gds.customer.app-jetified-lifecycle-runtime-ktx-2.7.0-78 /home/carton/.gradle/caches/transforms-3/e7317eb0fd69defe271cfd91118f0ead/transformed/jetified-lifecycle-runtime-ktx-2.7.0/res
+com.gds.customer.app-jetified-lifecycle-viewmodel-ktx-2.7.0-79 /home/carton/.gradle/caches/transforms-3/f1c234e16bc37d0e0e53fbb687c6c9bb/transformed/jetified-lifecycle-viewmodel-ktx-2.7.0/res
+com.gds.customer.app-jetified-accompanist-themeadapter-core-0.32.0-80 /home/carton/.gradle/caches/transforms-3/f24ab7df16d8a4871b0e5aea73c056ef/transformed/jetified-accompanist-themeadapter-core-0.32.0/res
+com.gds.customer.app-jetified-play-services-wallet-19.2.1-81 /home/carton/.gradle/caches/transforms-3/f371f2887fca49af0b7c0db606070fc5/transformed/jetified-play-services-wallet-19.2.1/res
+com.gds.customer.app-core-runtime-2.2.0-82 /home/carton/.gradle/caches/transforms-3/f5fc0b497152c965f1543dfff86f1103/transformed/core-runtime-2.2.0/res
+com.gds.customer.app-jetified-hcaptcha-20.37.4-83 /home/carton/.gradle/caches/transforms-3/f73d0b408185e8a8dc497e5940ca581f/transformed/jetified-hcaptcha-20.37.4/res
+com.gds.customer.app-jetified-stripe-ui-core-20.37.4-84 /home/carton/.gradle/caches/transforms-3/f7a6b70a16410d24af424da752460483/transformed/jetified-stripe-ui-core-20.37.4/res
+com.gds.customer.app-jetified-animation-core-release-85 /home/carton/.gradle/caches/transforms-3/fa68c551101521aa77899d2c4700a2f9/transformed/jetified-animation-core-release/res
+com.gds.customer.app-jetified-activity-ktx-1.8.2-86 /home/carton/.gradle/caches/transforms-3/fab640221d7f89705c044147239c15d0/transformed/jetified-activity-ktx-1.8.2/res
+com.gds.customer.app-jetified-financial-connections-20.37.4-87 /home/carton/.gradle/caches/transforms-3/fc12b040ab3419df72aa2b4e5d9b9be7/transformed/jetified-financial-connections-20.37.4/res
+com.gds.customer.app-jetified-glide-4.12.0-88 /home/carton/.gradle/caches/transforms-3/fc7bb71383abcf5dd437e57c95c32a34/transformed/jetified-glide-4.12.0/res
+com.gds.customer.app-jetified-ui-geometry-release-89 /home/carton/.gradle/caches/transforms-3/ff21fdc8a67b9a46b7100aacda07e891/transformed/jetified-ui-geometry-release/res
+com.gds.customer.app-main-90 /home/carton/Desktop/Ghost App/Customer/Ghost-Customer/flutterprojects/custupdation/customer/android/app/src/main/res
+com.gds.customer.app-release-91 /home/carton/Desktop/Ghost App/Customer/Ghost-Customer/flutterprojects/custupdation/customer/android/app/src/release/res
+com.gds.customer.app-google-services-92 /home/carton/Desktop/Ghost App/Customer/Ghost-Customer/flutterprojects/custupdation/customer/build/app/generated/res/google-services/release
+com.gds.customer.app-pngs-93 /home/carton/Desktop/Ghost App/Customer/Ghost-Customer/flutterprojects/custupdation/customer/build/app/generated/res/pngs/release
+com.gds.customer.app-resValues-94 /home/carton/Desktop/Ghost App/Customer/Ghost-Customer/flutterprojects/custupdation/customer/build/app/generated/res/resValues/release
+com.gds.customer.app-rs-95 /home/carton/Desktop/Ghost App/Customer/Ghost-Customer/flutterprojects/custupdation/customer/build/app/generated/res/rs/release
+com.gds.customer.app-mergeReleaseResources-96 /home/carton/Desktop/Ghost App/Customer/Ghost-Customer/flutterprojects/custupdation/customer/build/app/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.gds.customer.app-mergeReleaseResources-97 /home/carton/Desktop/Ghost App/Customer/Ghost-Customer/flutterprojects/custupdation/customer/build/app/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.gds.customer.app-merged_res-98 /home/carton/Desktop/Ghost App/Customer/Ghost-Customer/flutterprojects/custupdation/customer/build/app/intermediates/merged_res/release
+com.gds.customer.app-packaged_res-99 /home/carton/Desktop/Ghost App/Customer/Ghost-Customer/flutterprojects/custupdation/customer/build/cloud_firestore/intermediates/packaged_res/release
+com.gds.customer.app-packaged_res-100 /home/carton/Desktop/Ghost App/Customer/Ghost-Customer/flutterprojects/custupdation/customer/build/cloud_functions/intermediates/packaged_res/release
+com.gds.customer.app-packaged_res-101 /home/carton/Desktop/Ghost App/Customer/Ghost-Customer/flutterprojects/custupdation/customer/build/file_picker/intermediates/packaged_res/release
+com.gds.customer.app-packaged_res-102 /home/carton/Desktop/Ghost App/Customer/Ghost-Customer/flutterprojects/custupdation/customer/build/firebase_auth/intermediates/packaged_res/release
+com.gds.customer.app-packaged_res-103 /home/carton/Desktop/Ghost App/Customer/Ghost-Customer/flutterprojects/custupdation/customer/build/firebase_core/intermediates/packaged_res/release
+com.gds.customer.app-packaged_res-104 /home/carton/Desktop/Ghost App/Customer/Ghost-Customer/flutterprojects/custupdation/customer/build/firebase_performance/intermediates/packaged_res/release
+com.gds.customer.app-packaged_res-105 /home/carton/Desktop/Ghost App/Customer/Ghost-Customer/flutterprojects/custupdation/customer/build/firebase_storage/intermediates/packaged_res/release
+com.gds.customer.app-packaged_res-106 /home/carton/Desktop/Ghost App/Customer/Ghost-Customer/flutterprojects/custupdation/customer/build/flutter_native_splash/intermediates/packaged_res/release
+com.gds.customer.app-packaged_res-107 /home/carton/Desktop/Ghost App/Customer/Ghost-Customer/flutterprojects/custupdation/customer/build/flutter_plugin_android_lifecycle/intermediates/packaged_res/release
+com.gds.customer.app-packaged_res-108 /home/carton/Desktop/Ghost App/Customer/Ghost-Customer/flutterprojects/custupdation/customer/build/fluttertoast/intermediates/packaged_res/release
+com.gds.customer.app-packaged_res-109 /home/carton/Desktop/Ghost App/Customer/Ghost-Customer/flutterprojects/custupdation/customer/build/geocoding_android/intermediates/packaged_res/release
+com.gds.customer.app-packaged_res-110 /home/carton/Desktop/Ghost App/Customer/Ghost-Customer/flutterprojects/custupdation/customer/build/geolocator_android/intermediates/packaged_res/release
+com.gds.customer.app-packaged_res-111 /home/carton/Desktop/Ghost App/Customer/Ghost-Customer/flutterprojects/custupdation/customer/build/google_api_headers/intermediates/packaged_res/release
+com.gds.customer.app-packaged_res-112 /home/carton/Desktop/Ghost App/Customer/Ghost-Customer/flutterprojects/custupdation/customer/build/google_maps_flutter_android/intermediates/packaged_res/release
+com.gds.customer.app-packaged_res-113 /home/carton/Desktop/Ghost App/Customer/Ghost-Customer/flutterprojects/custupdation/customer/build/google_sign_in_android/intermediates/packaged_res/release
+com.gds.customer.app-packaged_res-114 /home/carton/Desktop/Ghost App/Customer/Ghost-Customer/flutterprojects/custupdation/customer/build/image_picker_android/intermediates/packaged_res/release
+com.gds.customer.app-packaged_res-115 /home/carton/Desktop/Ghost App/Customer/Ghost-Customer/flutterprojects/custupdation/customer/build/package_info_plus/intermediates/packaged_res/release
+com.gds.customer.app-packaged_res-116 /home/carton/Desktop/Ghost App/Customer/Ghost-Customer/flutterprojects/custupdation/customer/build/path_provider_android/intermediates/packaged_res/release
+com.gds.customer.app-packaged_res-117 /home/carton/Desktop/Ghost App/Customer/Ghost-Customer/flutterprojects/custupdation/customer/build/shared_preferences_android/intermediates/packaged_res/release
+com.gds.customer.app-packaged_res-118 /home/carton/Desktop/Ghost App/Customer/Ghost-Customer/flutterprojects/custupdation/customer/build/sign_in_with_apple/intermediates/packaged_res/release
+com.gds.customer.app-packaged_res-119 /home/carton/Desktop/Ghost App/Customer/Ghost-Customer/flutterprojects/custupdation/customer/build/sqflite/intermediates/packaged_res/release
+com.gds.customer.app-packaged_res-120 /home/carton/Desktop/Ghost App/Customer/Ghost-Customer/flutterprojects/custupdation/customer/build/stripe_android/intermediates/packaged_res/release
+com.gds.customer.app-packaged_res-121 /home/carton/Desktop/Ghost App/Customer/Ghost-Customer/flutterprojects/custupdation/customer/build/telephony/intermediates/packaged_res/release
+com.gds.customer.app-packaged_res-122 /home/carton/Desktop/Ghost App/Customer/Ghost-Customer/flutterprojects/custupdation/customer/build/url_launcher_android/intermediates/packaged_res/release
+com.gds.customer.app-packaged_res-123 /home/carton/Desktop/Ghost App/Customer/Ghost-Customer/flutterprojects/custupdation/customer/build/video_player_android/intermediates/packaged_res/release

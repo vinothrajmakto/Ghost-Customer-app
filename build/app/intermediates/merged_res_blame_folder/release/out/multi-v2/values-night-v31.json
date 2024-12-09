@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.gds.customer.app-mergeReleaseResources-96:/values-night-v31/values-night-v31.xml",
+            "map": [
+                {
+                    "source": "/home/carton/Desktop/Ghost App/Customer/Ghost-Customer/flutterprojects/custupdation/customer/android/app/src/main/res/values-night-v31/styles.xml",
+                    "from": {
+                        "startLines": "3,14",
+                        "startColumns": "4,4",
+                        "startOffsets": "172,814",
+                        "endLines": "7,16",
+                        "endColumns": "12,12",
+                        "endOffsets": "463,965"
+                    },
+                    "to": {
+                        "startLines": "2,6",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,235",
+                        "endLines": "5,8",
+                        "endColumns": "12,12",
+                        "endOffsets": "230,386"
+                    }
+                }
+            ]
+        }
+    ]
+}
